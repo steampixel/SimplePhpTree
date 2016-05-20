@@ -1,1 +1,1 @@
-"# SimplePhpTree" 
+This a simple PHP Tree Class for managing multi-root Nested Set Tables. You can create new nodes, move them left, right, up and down. You can delete nodes and preserve its children or you can delete complete subtrees. There is also a build in function that shows the health status of the tree table. If the tree gets broken for some reason you can simply reset its nodes and reorder them again. Take a look at the index.php file for a full example. There you will also find a example function that renders a simple multi-level ul list.
