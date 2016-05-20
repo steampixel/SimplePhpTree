@@ -102,6 +102,21 @@ function renderSimpleTree($nodes){
 //Get all nodes of the tree
 $all_nodes = $tree->getAllNodes();
 
+//Get Subtree
+//$sub_nodes = $tree->getSubtree($new_sub_node_id);
+
+//Get all ancestors of a node
+//$ancestor_nodes = $tree->getAncestors($new_sub_node_id);
+
+//Get trace nodes
+//$trace_nodes = $tree->getTrace($new_sub_node_id);
+
+//Get left brother
+//$left_brother = $tree->getLeftBrother($new_sub_node_id);
+
+//Get right brother
+//$right_brother = $tree->getRightBrother($new_sub_node_id);
+
 //render the tree
 echo renderSimpleTree($all_nodes);
 
