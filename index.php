@@ -1,7 +1,5 @@
 <?PHP
 
-use steampixel\Tree;
-
 require_once('Tree.php');
 
 // Create and configure a new tree

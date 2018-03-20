@@ -1,7 +1,5 @@
 <?PHP
 
-namespace steampixel;
-
 class Tree{
   
   private $config = array();
